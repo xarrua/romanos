@@ -1,7 +1,3 @@
- Aplicación Web Ingresos-Gastos
-
-Programa hecho en python con el framework flask, App web ingresos-gastos
-
 # Aplicacion de traduccion de  numeros a romanos
 - crear un entorno en python, activar y ejecutar los comandos:
 ```
